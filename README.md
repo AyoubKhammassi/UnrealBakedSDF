@@ -7,15 +7,15 @@
 ## Usage
 ### 1. Import FBX with the following options.
 
-![FBX Import Options](Resources\FBX_Import_Options.jpg)
+![FBX Import Options](Resources/FBX_Import_Options.jpg)
 
 
 ### 2. Configure the imported StaticMesh. 
 
-![How To Configure](Resources\Configure_StaticMesh.gif)
+![How To Configure](Resources/Configure_StaticMesh.gif)
 
 ### 3. Drag and Drop the StaticMesh in the level.
-![How To Configure](Resources\Drag_StaticMesh.gif)
+![How To Configure](Resources/Drag_StaticMesh.gif)
 
 #
 **BakedSDF** is a method for reconstructing high-quality meshes for photorealistic novel view synthesis. BakedSDF bakes high-quality triangle meshes that are equipped with a simple and fast view-dependent appearance model based on spherical Gaussians. 
