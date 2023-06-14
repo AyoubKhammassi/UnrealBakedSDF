@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9D40794F-4DC5-202B-B244-919655B7F720}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealBakedSDF",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
